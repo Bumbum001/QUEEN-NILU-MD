@@ -17,15 +17,15 @@ function convertToBool(text, fault = 'true') {
 global.SESSION_ID = 'QUEENNILU;;;YvV0HBhR#96-N4P0ED48HEvRP4yRTfVXnkVF7bpbohelEjfcVBh8' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://dfjrt_user:IGMbcFkn4XSU2CXUPHPN3GCRPYTKVOdb@dpg-cmn7ic8cmk4c73e6ef4g-a.frankfurt-postgres.render.com/dfjrt'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94762597342'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'මහසෝනා'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
